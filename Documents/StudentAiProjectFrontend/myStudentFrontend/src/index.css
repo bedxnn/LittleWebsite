@@ -1,0 +1,279 @@
+
+
+
+body{
+
+  color-scheme: light hsl(240, 100%, 50%);
+  background-color: white;
+
+
+ #name{
+  position: absolute;
+  top: 44px;
+  right: 750px;
+ 
+ }
+
+ .about_me{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;  
+  position: relative; 
+  text-align: left;
+  bottom: -250px;
+  right: -55px;
+  font-size: 15px;
+
+
+
+ }
+ #about_position{
+  margin-left: 0px;
+  position: absolute;
+  top:-40px;
+
+ 
+  right: 558px;
+  font-weight: bold;
+
+ }
+ #education{
+  position: relative;
+  right: 20px;
+  top: -25px;
+padding: 35px;
+
+
+ }
+ .penndiv{
+  max-width: 650px;
+  height: 200px;
+position: relative;
+right: -460px;
+top: 250px;
+ 
+
+ }
+
+#penn{
+
+   border: 1px solid black;
+  border-radius: 50%;
+   max-width: 30px;
+   height: auto;
+   position: absolute;
+   right: 600px;
+   top: 60px;
+
+
+ }
+ #highschool-text{
+position: absolute;
+top: 50px;
+right: 410px;
+font-weight: bold;
+
+ }
+ #penn-date{
+  position: absolute;
+  top: 50px;
+  left: 510px;
+  color: grey;
+ }
+
+ .dsu{
+
+  max-width: 650px;
+  max-height: 80px;
+  position: relative;
+ 
+
+ }
+ #dsu-image{
+  max-width: 30px;
+
+  border-radius: 50%;
+  position: absolute ;
+  top: 10px;
+  right: 603px;
+
+ }
+ #dsu-word{
+  font-weight: bold;
+  position: absolute;
+  right: 404px;
+
+ }
+ #dsu-date{
+  position: absolute;
+  left: 496px;
+  color: grey;
+
+ }
+ .Activities{
+  max-width: 650px;
+  height: 200px;
+  position: relative;
+  right: -469px;
+top: 250px;
+ 
+
+ }
+
+ #gb-image{
+  border-radius: 50%;
+  max-width: 30px;
+  position: absolute;
+  top: 10px;
+  right: 613px ;
+ 
+ }
+
+ .Clickable{
+  position: relative;
+ 
+   max-width: 3400px;
+   height: 90px;
+   top: 0px;
+
+ }
+ #gb-word{
+  position: absolute;
+  font-weight: bold;
+  right: 503px;
+  top: -2px;
+  
+
+ }
+#activities-n{
+  font-weight: bold;
+
+}
+.dropdown-box{
+  position: absolute;
+  top: 23px;
+  left: 60px;
+ 
+}
+
+
+}
+#bmi-image{
+position: absolute;
+  max-width: 30px;
+  border-radius: 50%;
+  right: 616px;
+
+
+}
+#bmi-word{
+  position: absolute;
+  top:115px;
+  right: 555px;
+  font-weight:bold;
+}
+.bmi-box{
+  position: absolute;
+bottom: -30px;
+left: 60px;
+ 
+}
+.intro{
+ border: 1px solid rgb(54, 41, 41);
+border-radius: 10px;
+box-shadow: 5px 5px 5px;
+
+  position:absolute;
+ top: 104px;
+ right: 570px;
+ font-size: 20px;
+ 
+}
+.Skills-box{
+  position: relative;
+
+    max-width: 650px;
+    right: -462px;
+    bottom: -270px;
+   
+}
+#skills-text{
+  font-weight: bold;
+  position: absolute;
+  right: 606px;
+  top: -20px;
+}
+.ul-list {
+display: flex;
+justify-content: center;
+}
+ul.ul-list li {
+  background-color: black;
+  list-style-type: none;
+  width: 70px;
+  border-radius: 20px;
+  position: relative;
+  bottom: -29px;
+  right:35px;
+
+
+
+}
+
+
+
+
+li{
+  text-decoration: none;
+  display: inline;
+   padding: 16px;
+   background-color: black;
+  color: white;
+  margin: 3px;
+}
+.socials-box{
+  border :1px solid black;
+  border-radius: 50px;
+  max-width: 350px;
+  height: 50px;
+  position: relative;
+  right: -465px;
+  top: 400px;
+}
+.insta{
+  border-radius: 70px;
+  width: 50px;
+
+  overflow: hidden;
+}
+.social-box{
+  border: 1px solid black;
+  max-width: 130px;
+ right: -700px;
+  height: 50px;
+ position: relative;
+border-radius: 50px;
+bottom: -400px;
+gap: 5px;
+align-items: center;
+
+}
+#linnk{
+  max-width: 40px;
+  position: absolute;
+  right: 70px;
+  bottom: 4px;
+}
+#git{
+  max-width: 40px;
+  position: absolute;
+  right: 10px;
+  bottom: 4px;
+}
+#soc
+{
+  position: absolute;
+  top: -50px;
+  font-weight: bold;
+  right: 45px;
+}
